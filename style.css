@@ -4,10 +4,10 @@ body{
 #content{
     margin: auto;
 }
-#tieude {
+.tieude {
     font-size: 200%;
 }
-#poster {
+.poster {
     float: left;
     background-color: white;
     width: 400px;
@@ -15,7 +15,7 @@ body{
     padding-top: 15px;
     padding-left: 15px;
 }
-#block-cot-trai {
+.block-cot-trai {
     float: left;
 }
 
