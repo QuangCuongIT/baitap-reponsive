@@ -35,3 +35,7 @@ Please let me/DuyNguyenKhanh know if need help or something unclear.
 Thanks,
 
 Duy Nguyen
+
+
+Biet cach viet class
+// interface
